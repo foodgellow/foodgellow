@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi out there 👋
 
-<!--
-**foodgellow/foodgellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mocha FoodGellow (not GoodFellow). 
+- I love Hellium
+- I work with Benzyne
+- I like ion-bond!
+- I hate badminton
+- I'm from Brazil
 
+a fucking happy transgender (I've transtioned twice! binary -> non-binary -> quantum)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working my Polymer
+- 🌱 I’m currently learning about the Oil
+- 👯 I’m looking to collaborate on a reaction
+- 🤔 I’m looking for help with an Acid
+- 💬 Ask me about Base
+- 📫 How to reach me: fuck-chemistry@mit.edit
+- 😄 Pronouns: Cobalt, Cobaltem
+- ⚡ Fun fact: Chrome browser named becuase of chemical element CHROME!!!
