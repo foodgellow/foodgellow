@@ -2,7 +2,7 @@
 
 I'm Ion FoodGellow (not Ian GoodFellow). 
 
-a fucking happy transgender (I've transtioned twice! binary(01) -> non-binary (digial 0-9) -> extra (hex 0-f)
+a transgender (I've transtioned twice! binary(01) -> non-binary (digial 0-9) -> extra (hex 0-f)
 
 - 💀 I'm a [Tangent](https://github.com/suchnsuch/Tangent) user
 - 🔭 I’m currently working my Polymer
