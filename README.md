@@ -1,14 +1,8 @@
 ## Hi out there 👋
 
-I'm Mocha FoodGellow (not GoodFellow). 
-- I love Hellium
-- I work with Benzyne
-- I like ion-bond!
-- I hate badminton
-- I'm from Brazil
+I'm Ion FoodGellow (not Ian GoodFellow). 
 
-a fucking happy transgender (I've transtioned twice! binary -> non-binary -> quantum)
-Here are some ideas to get you started:
+a fucking happy transgender (I've transtioned twice! binary(01) -> non-binary (digial 0-9) -> (hex 0-f)
 
 - 🔭 I’m currently working my Polymer
 - 🌱 I’m currently learning about the Oil
