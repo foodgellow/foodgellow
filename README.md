@@ -9,6 +9,6 @@ a fucking happy transgender (I've transtioned twice! binary(01) -> non-binary (d
 - 👯 I’m looking to collaborate on a reaction
 - 🤔 I’m looking for help with an Acid
 - 💬 Ask me about Base
-- 📫 How to reach me: fuck-chemistry@mit.edit
+- 📫 How to reach me: fuck-chemistry@mit.edu
 - 😄 Pronouns: Cobalt, Cobaltem
 - ⚡ Fun fact: Chrome browser named becuase of chemical element CHROME!!!
